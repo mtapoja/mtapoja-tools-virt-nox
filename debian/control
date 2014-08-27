@@ -7,6 +7,6 @@ Standards-Version: 3.9.3
 
 Package: mtapoja-tools-virt-nox
 Architecture: any
-Depends: ${misc:Depends}, ${dist:Depends}, qemu-kvm libvirt-bin, virtinst, cpu-checker
+Depends: ${misc:Depends}, qemu-kvm, libvirt-bin, virtinst, cpu-checker
 Description: Metapackage for virtual machine tools - no X
- This package pulls all the cool tools needed for creating VM's from command line.
+ This package pulls all the tools needed for creating VM's from command line.
