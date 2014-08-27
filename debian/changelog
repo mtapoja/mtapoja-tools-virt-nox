@@ -1,0 +1,5 @@
+mtapoja-tools-virt-nox (0.1-1) UNRELEASED; urgency=low
+
+  * Basic dependencies and packaging.
+
+ -- Mika Tapojärvi <mika.tapojarvi@embelin.fi>  Wed, 20 Aug 2014 15:24:28 +0300
